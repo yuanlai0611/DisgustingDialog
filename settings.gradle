@@ -1,0 +1,3 @@
+include ':taskqueue'
+include ':app'
+rootProject.name = "Taskqueue"
