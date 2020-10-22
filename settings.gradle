@@ -1,3 +1,5 @@
+include ':taskqueueprocessor'
+include ':taskqueueannotation'
 include ':taskqueue'
 include ':app'
 rootProject.name = "Taskqueue"
